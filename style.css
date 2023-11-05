@@ -1,0 +1,50 @@
+
+#cuerpo{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin:0;
+    width: 100%;
+    padding:0;
+display: flex;
+flex-direction: column;
+min-height: 100vh;}
+
+#cavezera {
+    
+    background-image: url(imagenes/cafe.jpg);
+    color: beige;
+    padding: 10px 0;
+    width: 100%;
+    text-align: center;}
+    #menu {
+        background-color: black;
+        padding:0px 0;
+        text-align: center;
+      
+        width: 100%;}
+    
+    #menu a {
+        color: whitesmoke;
+        text-decoration: none;
+        margin: 0 40px;
+        width: 100%;}
+#contenido{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    background:url(imagenes/p.jpg);
+    background-size: cover;
+    background-position: center;}
+#texto{
+    text-align: center;
+}
+
+#pie {
+     background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;}
+   

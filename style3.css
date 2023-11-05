@@ -1,0 +1,14 @@
+body{
+    background-image: url(imagenes/cafee.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a{
+ 
+ color:black;
+        text-decoration: none;
+        margin: 0 40px;
+        width: 100%;
+}
